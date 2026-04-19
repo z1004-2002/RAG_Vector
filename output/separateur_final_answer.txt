@@ -1,0 +1,5 @@
+USER QUESTION:
+Quelles sont les caractéristiques principales de ce pré-séparateur ?
+
+FINAL ANSWER:
+Il est conçu pour le captage de poussières lourdes et autres débris, produit en acier avec des roues, sans cartouche de filtration (pas pour liquides), a un poids de 14 kg, une capacité de 33 L, et des dimensions de 450 x 490 x 840 mm.
